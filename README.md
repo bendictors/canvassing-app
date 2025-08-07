@@ -19,8 +19,8 @@ Canvassing is a mobile-first task and survey platform powered by zkTLS and XION 
 - Secure payouts & referral tracking
 
 ## Demo
-- [Demo Video on YouTube](https://youtube.com/link)
-- [Figma Prototype](https://figma.com/link)
+- [Demo Video on YouTube](https://youtu.be/Li9LIXWcyjw)
+- [Prototype]([k](https://www.figma.com/proto/EuTIr7lXngLJRq63EMDqt6/Projects?node-id=519-3393&t=XVPTS8Lqb9fAJvxA-1))
 
 ## Tech Stack
 - Figma (UI/UX)
@@ -35,4 +35,4 @@ Canvassing is a mobile-first task and survey platform powered by zkTLS and XION 
 - `README.md` → overview
 
 ## 👥 Team
-- Benedictors Ogada (Design) – [LinkedIn](https://linkedin.com/in/benedictors-ogada)
+- Benedictors Ogada (Design) – [LinkedIn](https://www.linkedin.com/in/benedictors-ogada-9b905b16a/)
